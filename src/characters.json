@@ -9,7 +9,7 @@
       "id": 2,
       "name": "Donkey Kong",
       "name_id": "donkey-kong",
-      "image": "/assets/img/characters/donkey-kong.png"
+      "image": "/public/assets/img/characters/donkey-kong.png"
     },
     {
       "id": 3,
