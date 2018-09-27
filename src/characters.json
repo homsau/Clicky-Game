@@ -3,13 +3,13 @@
       "id": 1,
       "name": "Captain Falcon",
       "name_id": "captain-falcon",
-      "image": "/assets/img/characters/captain-falcon.png"
+      "image": "https://github.com/homsau/Clicky-Game/blob/master/public/assets/img/characters/captain-falcon.png"
     },
     {
       "id": 2,
       "name": "Donkey Kong",
       "name_id": "donkey-kong",
-      "image": "/public/assets/img/characters/donkey-kong.png"
+      "image": "/assets/img/characters/donkey-kong.png"
     },
     {
       "id": 3,
