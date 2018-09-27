@@ -1,0 +1,20 @@
+.card {
+  background: #fff;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+  width: 20%;
+  margin: 2.5%;
+}
+.card > .img-container {
+  text-align: center;
+  background-image: url("/assets/img/card-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+.card > .img-container > img {
+  width: 80%;
+  padding: 10%;
+}
