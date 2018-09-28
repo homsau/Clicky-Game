@@ -58,6 +58,7 @@ class App extends Component {
       <div className="App">
         <Navbar 
           score={this.state.score}
+          wins={this.state.wins}
         />
         <Wrapper>
           {this.state.characters.map(character => (
