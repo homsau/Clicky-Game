@@ -9,66 +9,66 @@
       "id": 2,
       "name": "Donkey Kong",
       "name_id": "donkey-kong",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/a/a0/Super_Smash_Bros._Ultimate_-_Character_Art_-_Donkey_Kong.png/revision/latest/scale-to-width-down/1000?cb=20180612221124&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/donkey-kong.png"
     },
     {
       "id": 3,
       "name": "Fox",
       "name_id": "fox",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/1/1b/Super_Smash_Bros._Ultimate_-_Character_Art_-_Fox.png/revision/latest/scale-to-width-down/1000?cb=20180613003959&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/fox.png"
     },
     {
       "id": 4,
       "name": "Jigglypuff",
       "name_id": "jigglypuff",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/6/6b/Super_Smash_Bros._Ultimate_-_Character_Art_-_Jigglypuff.png/revision/latest/scale-to-width-down/1000?cb=20180612175613&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/jigglypuff.png"
     },
     {
       "id": 5,
       "name": "Kirby",
       "name_id": "kirby",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/7/7b/Super_Smash_Bros._Ultimate_-_Character_Art_-_Kirby.png/revision/latest/scale-to-width-down/1000?cb=20180612175227&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/kirby.png"
     },
     {
       "id": 6,
       "name": "Link",
       "name_id": "link",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/4/42/Super_Smash_Bros._Ultimate_-_Character_Art_-_Link.png/revision/latest/scale-to-width-down/1000?cb=20180612222832&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/link.png"
     },
     {
       "id": 7,
       "name": "Luigi",
       "name_id": "luigi",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/b/b1/Super_Smash_Bros._Ultimate_-_Character_Art_-_Luigi.png/revision/latest/scale-to-width-down/1000?cb=20180612224158&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/luigi.png"
     },
     {
       "id": 8,
       "name": "Mario",
       "name_id": "mario",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/8/80/Super_Smash_Bros._Ultimate_-_Character_Art_-_Mario.png/revision/latest/scale-to-width-down/1000?cb=20180612202944&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/mario.png"
     },
     {
       "id": 9,
       "name": "Ness",
       "name_id": "ness",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/d/d5/Super_Smash_Bros._Ultimate_-_Character_Art_-_Ness.png/revision/latest/scale-to-width-down/1000?cb=20180612175406&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/ness.png"
     },
     {
       "id": 10,
       "name": "Pikachu",
       "name_id": "pikachu",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/8/83/Super_Smash_Bros._Ultimate_-_Character_Art_-_Pikachu.png/revision/latest/scale-to-width-down/1000?cb=20180612175310&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/pikachu.png"
     },
     {
       "id": 11,
       "name": "Samus",
       "name_id": "samus",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/0/09/Super_Smash_Bros._Ultimate_-_Character_Art_-_Samus.png/revision/latest/scale-to-width-down/1000?cb=20180612175040&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/samus.png"
     },
     {
       "id": 12,
       "name": "Yoshi",
       "name_id": "yoshi",
-      "image": "https://vignette.wikia.nocookie.net/nintendo/images/7/72/Super_Smash_Bros._Ultimate_-_Character_Art_-_Yoshi.png/revision/latest/scale-to-width-down/1000?cb=20180612175133&path-prefix=en"
+      "image": "/Clicky-Game/assets/img/characters/yoshi.png"
     }
   ]  
