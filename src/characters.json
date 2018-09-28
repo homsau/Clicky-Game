@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Captain Falcon",
       "name_id": "captain-falcon",
-      "image": "https://github.com/homsau/Clicky-Game/blob/master/public/assets/img/characters/captain-falcon.png"
+      "image": "/assets/img/characters/captain-falcon.png"
     },
     {
       "id": 2,
